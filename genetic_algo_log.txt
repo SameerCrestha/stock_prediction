@@ -1,0 +1,161 @@
+Train set shape:  (596, 120, 9)
+Validation set shape:  (0, 120, 9)
+test set shape:  (398, 120, 9)
+---------------Generation-1---------------
+Training model with params: {'num_epochs': 20, 'learning_rate': 0.01, 'hidden_size': 64, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.006253970321267843 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 64, 'num_layers': 1}
+Training in progress...
+Training completed.
+Got mae: 0.0066358232870697975 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.1, 'hidden_size': 16, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.006625998765230179 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.007683551404625177 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.1, 'hidden_size': 32, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.007373913191258907 
+
+Training model with params: {'num_epochs': 20, 'learning_rate': 0.1, 'hidden_size': 2, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.007846332155168056 
+
+Training model with params: {'num_epochs': 30, 'learning_rate': 0.05, 'hidden_size': 32, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.008651532232761383 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 32, 'num_layers': 1}
+Training in progress...
+Training completed.
+Got mae: 0.006637329701334238 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.007746292743831873 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.1, 'hidden_size': 64, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.01912553235888481 
+
+Generation 1, Best Fitness had mae of 0.006253970321267843
+---------------Generation-2---------------
+Training model with params: {'num_epochs': 30, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.00589374965056777 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.007085260935127735 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.1, 'hidden_size': 64, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.007715919055044651 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.1, 'hidden_size': 64, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.00876608956605196 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.007146958261728287 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.00803647842258215 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 32, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.006147006992250681 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 32, 'num_layers': 1}
+Training in progress...
+Training completed.
+Got mae: 0.006272926926612854 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.007583725266158581 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.01, 'hidden_size': 32, 'num_layers': 1}
+Training in progress...
+Training completed.
+Got mae: 0.006553427316248417 
+
+Generation 2, Best Fitness had mae of 0.00589374965056777
+---------------Generation-3---------------
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.1, 'hidden_size': 64, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.008310222066938877 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.1, 'hidden_size': 64, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.00814962200820446 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.1, 'hidden_size': 32, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.008234342560172081 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 64, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.006610372103750706 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.006920795887708664 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.007320263888686895 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.006832931190729141 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
+Training in progress...
+Training completed.
+Got mae: 0.012720595113933086 
+
+Training model with params: {'num_epochs': 80, 'learning_rate': 0.01, 'hidden_size': 32, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.0070914835669100285 
+
+Training model with params: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 3}
+Training in progress...
+Training completed.
+Got mae: 0.007024290971457958 
+
+Generation 3, Best Fitness had mae of 0.006610372103750706
+
+ ---------------Best Parameters: {'num_epochs': 50, 'learning_rate': 0.01, 'hidden_size': 128, 'num_layers': 2}
